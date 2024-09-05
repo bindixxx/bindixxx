@@ -24,7 +24,7 @@ Basedate
 </p>
 Frameworks 
 <p align="left">
-### SOON
+SOON
 </p>
 IDE and more
 <p align="left">
